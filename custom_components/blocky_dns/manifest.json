@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@SeniorByteDev"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/SeniorByteDev/blocky_dns",
+  "domain": "blocky_dns",
+  "iot_class": "local_polling",
+  "name": "Blocky DNS",
+  "requirements": [],
+  "version": "0.1.0"
+}
